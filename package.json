@@ -1,0 +1,24 @@
+{
+  "name": "array-json-csv",
+  "version": "1.0.0",
+  "description": "convert array of json to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cotcac/json-csv.git"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "array"
+  ],
+  "author": "tranvuong.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cotcac/json-csv/issues"
+  },
+  "homepage": "https://github.com/cotcac/json-csv#readme"
+}
